@@ -1,5 +1,5 @@
 # About Me:
-About Me :<br><br> I’m currently working on:<br>AI-driven projects like EduHub and real-world problem-solving systems<br><br> I’m looking to collaborate on:<br>Cybersecurity, networking, and database-related projects<br><br> I’m looking for help with:<br>Advanced system design and scalable backend architectures<br><br> I’m currently learning:<br>Data Structures & Algorithms, Cloud Computing, and Cybersecurity fundamentals<br><br> Ask me about:<br>C++, Python, basic DSA, and project building<br><br> Fun fact:<br>I believe consistency beats motivation (still fighting distractions though )
+<br><br> I’m currently working on:<br>AI-driven projects like EduHub and real-world problem-solving systems<br><br> I’m looking to collaborate on:<br>Cybersecurity, networking, and database-related projects<br><br> I’m looking for help with:<br>Advanced system design and scalable backend architectures<br><br> I’m currently learning:<br>Data Structures & Algorithms, Cloud Computing, and Cybersecurity fundamentals<br><br> Ask me about:<br>C++, Python, basic DSA, and project building<br><br> Fun fact:<br>I believe consistency beats motivation (still fighting distractions though )
 
 
 ## 🌐 Socials:
